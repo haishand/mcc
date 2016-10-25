@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wang-tong/Projects/Compiler/include/Defs.h
+
+/Users/wang-tong/Projects/Compiler/include/VM.h
+
+/Users/wang-tong/Projects/Compiler/src/VM.cpp
+../include/Defs.h
+/Users/wang-tong/Projects/Compiler/include/Defs.h
+../include/VM.h
+/Users/wang-tong/Projects/Compiler/include/VM.h
+iostream
+-
+
+/Users/wang-tong/Projects/Compiler/src/mcc.cpp
+iostream
+-
+

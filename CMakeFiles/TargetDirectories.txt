@@ -1,0 +1,5 @@
+/Users/wang-tong/Projects/Compiler/CMakeFiles/edit_cache.dir
+/Users/wang-tong/Projects/Compiler/CMakeFiles/rebuild_cache.dir
+/Users/wang-tong/Projects/Compiler/src/CMakeFiles/edit_cache.dir
+/Users/wang-tong/Projects/Compiler/src/CMakeFiles/rebuild_cache.dir
+/Users/wang-tong/Projects/Compiler/src/CMakeFiles/minicl.dir
